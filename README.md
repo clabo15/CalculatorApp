@@ -5,4 +5,4 @@ This is a calculator app built in C# using Visual Studio.
 
 The calculator performs all of the normal functions of a basic calculator and can be resized to the user's convience.
 
-The executiable is located in the bin folder.
+The executiable is located in the Debug folder inside the bin folder.
